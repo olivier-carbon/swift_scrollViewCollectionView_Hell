@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BreakMyViews/TestViewController.swift"
-            timestampString = "537131115.797554"
+            timestampString = "537134565.650088"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
             landmarkName = "beHappy()"
             landmarkType = "7">
          </BreakpointContent>

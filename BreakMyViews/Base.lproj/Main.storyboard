@@ -67,6 +67,7 @@
                     </view>
                     <connections>
                         <outlet property="collectionView" destination="Dbc-c4-Nse" id="3ye-me-e22"/>
+                        <outlet property="scrollView" destination="nur-IA-CQg" id="0lc-14-qDE"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

@@ -10,6 +10,7 @@ import UIKit
 
 class TestViewController: UIViewController {
     
+    @IBOutlet weak var scrollView: UIScrollView!
     @IBOutlet weak var collectionView: UICollectionView!
     
     override func viewDidLoad() {
