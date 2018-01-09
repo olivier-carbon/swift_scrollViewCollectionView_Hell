@@ -4,9 +4,9 @@
 
 This app demonstrates a bug using ScrollView and CollectionView in unison. The bug is only apparent on the iPhone X.
 
-In order for a scroll view to read to the extreme top and bottom of a screen, you must add view constraints to the superview.
+In order for a scroll view to visually cover the entire screen on an iPhone X, you must add view constraints to the superview (to the bottom, to be exact).
 
-If you place a collection view inside that scroll view, and makke sure that a cell overlaps the bottom of the scroll view's visible window, then tapping anywhere on the scroll view will trigger a tap on that bottom cell.
+If you place a collection view inside that scroll view, and make sure that a cell overlaps the bottom of the scroll view's visible window, then tapping anywhere on the scroll view will trigger a tap on that bottom cell.
 
 # To replicate
 
